@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Search"
+          android:id="@+id/nav_search"
+          android:icon="@drawable/inbox"/>
+
+    <item android:title="List Search"
+          android:id="@+id/nav_list_search"
+          android:icon="@drawable/sent"/>
+
+    <item android:title="List Download"
+          android:id="@+id/nav_list_download"
+          android:icon="@drawable/draft"/>
+
+
+
+
+    <group android:id="@+id/group_settings_id">
+
+        <item android:title="Settings"
+              android:icon="@drawable/settings"/>
+        <item android:title="Help"
+             android:icon="@drawable/help"/>
+    </group>
+
+
+</menu>

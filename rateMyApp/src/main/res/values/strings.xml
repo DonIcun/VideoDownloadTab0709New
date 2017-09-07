@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RateMyApp</string>
+    <string name="dialog_message">Are you enjoying our application? \nWould you like to rate it and tell everyone how cool is it ?</string>
+</resources>

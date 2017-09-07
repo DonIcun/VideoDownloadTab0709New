@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Video Download</string>
+
+    <string name="hello_world">Hello world!</string>
+
+
+
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="filter" translatable="false">Filter</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="textInformation" translatable="false">All respected credit given to the videos where the video comes from, authors, etc. If you cannot download or find videos you want, it means that is restricted. Please do not give us Low Rate just because you cannot find and download copyrighted videos. .</string>
+    <string name="title_activity_main_activityasd" translatable="false">MainActivityasd</string>
+    <string name="loading" translatable="false">Searching&#8230;</string>
+    <string name="empty_text" translatable="false">No matches for your search</string>
+    <string name="find_download_link" translatable="false">Generating Download Link\n</string>
+    <string name="loading_video" translatable="false">Loading Video&#8230;</string>
+    <string name="downloaded_videos" translatable="false">Downloaded Videos</string>
+    <string name="Connection" translatable="false">No Internet Connection</string>
+    <string name="loading_video_play" translatable="false">Loading...</string>
+    <string name="loading_video_down" translatable="false">Prepare Downloading Video</string>
+    <string name="search_hint" translatable="false">Cari</string>
+
+
+    <string name="int_unit_id">ca-app-pub-9289413391936764/8289158183</string>
+    <!-- Banner -->
+    <string name="ad_unit_id">ca-app-pub-9289413391936764/3858958584</string>
+    <string name="test_device_id">0E2FA7A5B1C4AEC684CD92757839DC59</string>
+</resources>
