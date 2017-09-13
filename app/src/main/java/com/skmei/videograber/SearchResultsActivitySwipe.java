@@ -202,6 +202,11 @@ public class SearchResultsActivitySwipe extends Activity implements SwipeRefresh
 
 
 
+		/// comment tambahan
+		// tambah 2
+
+
+
 		////admob
 
 		// Volley's json array request object
